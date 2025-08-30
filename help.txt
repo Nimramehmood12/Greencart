@@ -1,0 +1,7 @@
+//client
+npm install react-router-dom react-hot-toast
+
+used prebuild ui
+
+//server
+npm install bcryptjs cloudinary cookie-parser cors dotenv express jsonwebtoken  mongoose multer stripe
